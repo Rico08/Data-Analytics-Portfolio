@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Rich Conklin - Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**! This repository contains projects that showcase my data analytics skills, including SQL, data visualization, and problem-solving. Each project highlights different aspects of my expertise and demonstrates my ability to analyze and interpret data to derive actionable insights.
 
