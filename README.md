@@ -4,7 +4,7 @@ Welcome to my **Data Analytics Portfolio**! This repository contains projects th
 
 ## Projects
 
-1. **Superstore Database Project**
+1. **Superstore Database Analytics Project**
    - Explored and analyzed a dataset using SQL queries.
    - Extracted insights related to item pricing, category analysis, and stock levels.
    - [View Project](https://github.com/Rico08/Data-Analytics-Portfolio/blob/34269c83f8aa3a93a5140d01374aa372e8fe954f/Superstore%20Database)
